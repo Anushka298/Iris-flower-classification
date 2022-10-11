@@ -8,7 +8,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 * petal length in cm
 * petal width in cm
 
-#### species:
+### species:
 * -- Iris Setosa 
 * -- Iris Versicolour 
 * -- Iris Virginica
